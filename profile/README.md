@@ -9,3 +9,8 @@ Industrial Informatics project @FEUP(2021/22).
  * Joaquim Cunha  (up201806651@edu.fe.up.pt)
  * Pedro Silva    (up201806526@edu.fe.up.pt)
  * Ricardo Silva  (up201806701@edu.fe.up.pt)
+
+### Requirements
+ * Automating the production of a flexible production line simulator.
+ * Development of a MES (Manufacturing Execution System) to monitor and manage the production on the plant floor.
+ * Development of an ERP (Enterprise Resource Planning) module to receive orders from clients and schedule acquisition orders as well as production orders.
