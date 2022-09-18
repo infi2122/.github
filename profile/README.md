@@ -24,3 +24,4 @@ Industrial Informatics project @FEUP(2021/22).
  
 ### Video showcase
 Video with the sequence of client's orders that were used in the competition with total cost calculation.
+https://youtu.be/yImJrbtUlog
