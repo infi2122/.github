@@ -17,3 +17,10 @@ Industrial Informatics project @FEUP(2021/22).
 
 ### Production line (Shop Floor Simulator)
 ![sfs](https://user-images.githubusercontent.com/78810496/190900901-a91295ca-637c-4def-9ead-fdd43d13a97f.png)
+
+
+### Project Grade
+ * 96/100 + Competition winning bonus
+ 
+### Video showcase
+Video with the sequence of client's orders that was used in the competition with total cost calculation.
