@@ -14,3 +14,6 @@ Industrial Informatics project @FEUP(2021/22).
  * Automating the production of a flexible production line simulator.
  * Development of a MES (Manufacturing Execution System) to monitor and manage the production on the plant floor.
  * Development of an ERP (Enterprise Resource Planning) module to receive orders from clients and schedule acquisition orders as well as production orders.
+
+### Production line (Shop Floor Simulator)
+![sfs](https://user-images.githubusercontent.com/78810496/190900901-a91295ca-637c-4def-9ead-fdd43d13a97f.png)
