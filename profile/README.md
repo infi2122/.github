@@ -23,5 +23,5 @@ Industrial Informatics project @FEUP(2021/22).
  * 96/100 + Competition winning bonus
  
 ### Video showcase
-Video with the sequence of client's orders that were used in the competition with total cost calculation.
+Video with the sequence of client's orders that were used in the competition with total cost calculation.  
 https://youtu.be/yImJrbtUlog
